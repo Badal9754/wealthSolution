@@ -318,9 +318,9 @@
 
   <!-- Call To Action Section - End
         ================================================== -->
-  <section class="appstore_section section_decoration">
+  <section class="appstore_section section_decoration bg-white">
     <div class="container">
-      <div class="row justify-content-lg-between">
+      <div class="row justify-content-lg-between"  style="align-items: center;">
 
         <div class="col-lg-6 ">
           <div class="heading_block style_2">
@@ -344,8 +344,8 @@
       </div>
     </div>
   </section>
-  <div class="client_logo_section section_space">
-    <div class="container">
+  <div class="client_logo_section">
+    <div class="">
       <div class="clients_logo_carousel swiper bg-white">
         <div class="swiper-wrapper">
           <div class="swiper-slide">
