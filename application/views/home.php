@@ -1,17 +1,16 @@
 <main class="page_content">
   <!-- --------------Hero Section---------- -->
   <section class="hero_section hero_car_insurance bg-primary section_decoration"
-    style="background-image: url('assets/images/shapes/shape_car_path_1.png');">
-    <div class="hero_car"><img data-parallax='{"y" : 80, "smoothness": 10}' src="assets/images/hero/car.png" alt="">
-    </div>
-    <div class="container">
+     >
+     
+    <div class="container text-center">
       <div class="row align-items-center justify-content-lg-between">
-        <div class="col-lg-6">
+        <div class="col-lg-12">
           <h1 class="hero_title text-white wow fadeInUp" data-wow-delay=".1s">
-            Elevate Your Drive with Trusted Car Insurance!
+          Empowering Your Wealth, Elevating <br> Your Life
           </h1>
           <p class="pe-lg-5 wow fadeInUp" data-wow-delay=".2s">
-            Drive with Peace of Mind: Unleash the Power of Reliable Car Insurance!
+          Discover solutions that align with your financial goals.
           </p>
           <div class="wow fadeInUp" data-wow-delay=".3s">
             <a class="btn bg-secondary text-dark" href="contact.html">
