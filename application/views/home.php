@@ -41,7 +41,7 @@
           </div>
         </div>
         <div class="col-lg-5">
-          <form class="car_insurance_quote_form wow fadeInRight" data-wow-delay=".2s" action="#">
+          <form class="car_insurance_quote_form wow fadeInRight" data-wow-delay=".2s" action="#" style="box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;">
             <h3 class="heading_text text-center">Get a Free Quote Now</h3>
             <div class="form-group">
               <input class="form-control" type="text" name="name" placeholder="Enter Your Name" required>
@@ -74,6 +74,7 @@
         <h2 class="heading_text mb-0">
           Share Recovery Consultation
         </h2>
+        <div class="middle-line"></div>
       </div>
       <div class="service_blocks_group justify-content-center row">
         <div class="col-lg-2 col-md-6 col-sm-6">
@@ -183,7 +184,7 @@
             <div class="service_content">
               <h3 class="service_title">
                 <a href="service_details.html">
-                  Recover Lost Shares
+                Recover Shares Transfer to IEPF
                 </a>
               </h3>
 
@@ -198,7 +199,8 @@
             <div class="service_content">
               <h3 class="service_title">
                 <a href="service_details.html">
-                  Recovery of Shares after death of Shareholder
+                ⁠Assistance in Recovery of Duplicate Shares
+
                 </a>
               </h3>
 
@@ -213,8 +215,7 @@
             <div class="service_content">
               <h3 class="service_title">
                 <a href="service_details.html">
-                  Recovery of Paper Shares to Demat
-
+                ⁠Recovery of Unclaimed Shares
                 </a>
               </h3>
 
@@ -229,8 +230,7 @@
             <div class="service_content">
               <h3 class="service_title">
                 <a href="service_details.html">
-                  ⁠Dividend Transfer to IEPF Recovery
-
+                Recovery of Shares from Physical to DEMAT
                 </a>
               </h3>
             </div>
@@ -247,10 +247,10 @@
     <div class="container">
       <div class="heading_block">
         <div class="heading_block text-center">
-
           <h2 class="heading_text mb-0">
             Wealth Advisory Solutions
           </h2>
+          <div class="middle-line"></div>
         </div>
       </div>
       <div class="row">

@@ -1,18 +1,12 @@
 <body class="car_insurance bg-light">
-
   <!-- Body Wrap - Start -->
   <div class="page_wrapper">
-
     <!-- Back To Top - Start -->
     <div class="backtotop">
       <a href="" class="scroll">
         <i class="fa-solid fa-arrow-up"></i>
       </a>
     </div>
-    <!-- Back To Top - End -->
-
-    <!-- Site Header - Start
-  ================================================== -->
     <header class="site_header header_layout_3">
       <div class="xb-header stricky">
         <div class="container">
@@ -33,38 +27,31 @@
                         aria-expanded="false">
                         Home
                       </a>
-
                     </li>
                     <li>
                       <a class="nav-link" href="" id="services_submenu" role="button" data-bs-toggle="dropdown"
                         aria-expanded="false">
                         About Us
                       </a>
-
                     </li>
                     <li>
                       <a class="nav-link" href="" id="projects_submenu" role="button" data-bs-toggle="dropdown"
                         aria-expanded="false">
                         Demat Account
                       </a>
-
                     </li>
                     <li>
                       <a class="nav-link" href="" id="pages_submenu" role="button" data-bs-toggle="dropdown"
                         aria-expanded="false">
                         Services
                       </a>
-
                     </li>
                     <li>
                       <a class="nav-link" href="" id="career_submenu" role="button" data-bs-toggle="dropdown"
                         aria-expanded="false">
                         Contact
                       </a>
-
                     </li>
- 
-
                   </ul>
                 </div>
               </nav>

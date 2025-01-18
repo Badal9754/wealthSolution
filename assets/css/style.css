@@ -765,11 +765,12 @@ mark {
 .heading_block {
   margin-bottom: 40px; }
   .heading_block .heading_text {
-    font-size: 50px;
+    font-size: 37px;
     font-weight: 600;
-    line-height: 60px;
+    line-height: 42px;
     margin-bottom: 24px;
-    letter-spacing: -0.5px; }
+    letter-spacing: -0.5px;
+  }
   .heading_block .subtitle_text {
     line-height: 1;
     font-size: 18px;
@@ -786,7 +787,13 @@ mark {
     background: red;
     margin-bottom: 19px;
    }
-
+.middle-line{
+  background: red;
+  height: 2px;
+  width: 100px;
+  margin: auto;
+  margin-top: 10px;
+}
 .heading_block.style_2 .heading_text {
   font-size: 40px;
   line-height: 67px; }
@@ -822,7 +829,8 @@ mark {
     transition: 0.3s ease;
     border: 1px solid #DBE2E2;
     caret-color: var(--bs-dark);
-    background-color: var(--bs-light); }
+    background-color: #ffff;
+   }
     .form-group .form-control:focus,
     .form-group .form-select:focus {
       background-color: var(--bs-white); }
@@ -3238,7 +3246,7 @@ input[type=search]::-webkit-search-results-decoration {
   .service_block .service_icon {
     width: 60px;
     height: 60px;
-    margin-bottom: 32px;
+    margin-bottom: 6px;
     align-items: center;
     display: inline-flex;
     justify-content: center;
@@ -3249,9 +3257,10 @@ input[type=search]::-webkit-search-results-decoration {
       max-width: 36px;
       max-height: 36px; }
   .service_block .service_title {
-    font-size: 26px;
-    line-height: 36px;
-    margin-bottom: 25px; }
+    font-size: 16px;
+    line-height: 23px;
+    margin-bottom: 25px; 
+  }
     .service_block .service_title a {
       font-family: inherit;
       color: var(--bs-white); }
@@ -3321,7 +3330,7 @@ input[type=search]::-webkit-search-results-decoration {
   .service_block.style_2 .service_title {
     margin-bottom: 15px; }
     .service_block.style_2 .service_title a {
-      color: var(--bs-heading-color); }
+      color: #214575}
   .service_block.style_2 p {
     color: #615959;
     padding-bottom: 32px;
