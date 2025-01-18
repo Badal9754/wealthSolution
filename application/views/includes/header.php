@@ -14,7 +14,7 @@
             <div class="col-lg-3 col-5">
               <div class="site_logo">
                 <a class="site_link" href="">
-                  <img src="assets/img/logo.webp" alt="Site Logo White">
+                  <img src="<?= base_url()?>assets/img/logo.webp" alt="Site Logo White">
                 </a>
               </div>
             </div>
