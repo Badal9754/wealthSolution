@@ -12,7 +12,7 @@
             Discover solutions that align with your financial goals.
           </p>
           <div class="wow fadeInUp" data-wow-delay=".3s">
-            <a class="btn bg-secondary text-dark" href="<?= base_url()?>">
+            <a class="btn bg-secondary text-dark" href="<?= base_url() ?>">
               <span class="btn_label">Find the Right Insurance</span>
             </a>
           </div>
@@ -83,7 +83,7 @@
             </div>
             <div class="service_content">
               <h3 class="service_title">
-                <a href="<?= base_url()?>">
+                <a href="<?= base_url() ?>">
                   Recover Lost Shares
                 </a>
               </h3>
@@ -98,7 +98,7 @@
             </div>
             <div class="service_content">
               <h3 class="service_title">
-                <a href="<?= base_url()?>">
+                <a href="<?= base_url() ?>">
                   Recovery of Shares after death of Shareholder
                 </a>
               </h3>
@@ -113,7 +113,7 @@
             </div>
             <div class="service_content">
               <h3 class="service_title">
-                <a href="<?= base_url()?>">
+                <a href="<?= base_url() ?>">
                   Recovery of Paper Shares to Demat
 
                 </a>
@@ -129,7 +129,7 @@
             </div>
             <div class="service_content">
               <h3 class="service_title">
-                <a href="<?= base_url()?>">
+                <a href="<?= base_url() ?>">
                   ⁠Dividend Transfer to IEPF Recovery
 
                 </a>
@@ -145,7 +145,7 @@
             </div>
             <div class="service_content">
               <h3 class="service_title">
-                <a href="<?= base_url()?>">
+                <a href="<?= base_url() ?>">
                   ⁠Claim Old Shares
 
                 </a>
@@ -166,7 +166,7 @@
             </div>
             <div class="service_content">
               <h3 class="service_title">
-                <a href="<?= base_url()?>">
+                <a href="<?= base_url() ?>">
                   Claim Dividends Transferred to IEPF
 
                 </a>
@@ -182,8 +182,8 @@
             </div>
             <div class="service_content">
               <h3 class="service_title">
-                <a href="<?= base_url()?>">
-                Recover Shares Transfer to IEPF
+                <a href="<?= base_url() ?>">
+                  Recover Shares Transfer to IEPF
                 </a>
               </h3>
 
@@ -197,8 +197,8 @@
             </div>
             <div class="service_content">
               <h3 class="service_title">
-                <a href="<?= base_url()?>">
-                ⁠Assistance in Recovery of Duplicate Shares
+                <a href="<?= base_url() ?>">
+                  ⁠Assistance in Recovery of Duplicate Shares
 
                 </a>
               </h3>
@@ -213,8 +213,8 @@
             </div>
             <div class="service_content">
               <h3 class="service_title">
-                <a href="<?= base_url()?>">
-                ⁠Recovery of Unclaimed Shares
+                <a href="<?= base_url() ?>">
+                  ⁠Recovery of Unclaimed Shares
                 </a>
               </h3>
 
@@ -228,8 +228,8 @@
             </div>
             <div class="service_content">
               <h3 class="service_title">
-                <a href="<?= base_url()?>">
-                Recovery of Shares from Physical to DEMAT
+                <a href="<?= base_url() ?>">
+                  Recovery of Shares from Physical to DEMAT
                 </a>
               </h3>
             </div>
@@ -240,7 +240,7 @@
   </section>
 
   <!-- -------------------Service -->
-  <section class="project_section section_space section_decoration overflow-hidden">
+
 
   <section class="feature_section about-space">
     <div class="container">
@@ -254,9 +254,9 @@
       </div>
       <div class="row">
         <div class="col-lg-4">
-          <a class="image_hover_effect_block" href="project_details.html">
+          <a class="image_hover_effect_block" href="<?= base_url() ?>">
             <span class="image_wrap">
-              <img src="assets/images/projects/project_image_3.webp" alt="Project Image">
+              <img src="<?= base_url() ?>assets/img/service/1.png" alt="Project Image">
             </span>
             <span class="content_wrap">
               <strong class="item_title">Unclaimed Share</strong>
@@ -264,9 +264,9 @@
           </a>
         </div>
         <div class="col-lg-4">
-          <a class="image_hover_effect_block" href="project_details.html">
+          <a class="image_hover_effect_block" href="<?= base_url() ?>">
             <span class="image_wrap">
-              <img src="assets/images/projects/project_image_3.webp" alt="Project Image">
+              <img src="<?= base_url() ?>assets/img/service/2.png" alt="Project Image">
             </span>
             <span class="content_wrap">
               <strong class="item_title">Share, Bond And Mutual Fund Claim After Death</strong>
@@ -274,9 +274,9 @@
           </a>
         </div>
         <div class="col-lg-4">
-          <a class="image_hover_effect_block" href="project_details.html">
+          <a class="image_hover_effect_block" href="<?= base_url() ?>">
             <span class="image_wrap">
-              <img src="assets/images/projects/project_image_4.webp" alt="Project Image">
+              <img src="<?= base_url() ?>assets/img/service/3.png" alt="Project Image">
             </span>
             <span class="content_wrap">
               <strong class="item_title">Share Dematerialisation</strong>
@@ -284,9 +284,9 @@
           </a>
         </div>
         <div class="col-lg-4">
-          <a class="image_hover_effect_block" href="project_details.html">
+          <a class="image_hover_effect_block" href="<?= base_url() ?>">
             <span class="image_wrap">
-              <img src="assets/images/projects/project_image_4.webp" alt="Project Image">
+              <img src="<?= base_url() ?>assets/img/service/4.png" alt="Project Image">
             </span>
             <span class="content_wrap">
               <strong class="item_title">Legal Consultation</strong>
@@ -294,9 +294,9 @@
           </a>
         </div>
         <div class="col-lg-4">
-          <a class="image_hover_effect_block" href="project_details.html">
+          <a class="image_hover_effect_block" href="<?= base_url() ?>">
             <span class="image_wrap">
-              <img src="assets/images/projects/project_image_4.webp" alt="Project Image">
+              <img src="<?= base_url() ?>assets/img/service/5.png" alt="Project Image">
             </span>
             <span class="content_wrap">
               <strong class="item_title">NRI Services</strong>
@@ -304,9 +304,9 @@
           </a>
         </div>
         <div class="col-lg-4">
-          <a class="image_hover_effect_block" href="project_details.html">
+          <a class="image_hover_effect_block" href="<?= base_url() ?>">
             <span class="image_wrap">
-              <img src="assets/images/projects/project_image_4.webp" alt="Project Image">
+              <img src="<?= base_url() ?>assets/img/service/6.png" alt="Project Image">
             </span>
             <span class="content_wrap">
               <strong class="item_title">Transmission of Shares</strong>
@@ -316,7 +316,7 @@
 
       </div>
       <div class="btns_group">
-        <a class="btn bg-dark rounded-pill" href="<?= base_url()?>">
+        <a class="btn bg-dark rounded-pill" href="<?= base_url() ?>">
           <span class="btn_label">More Services</span>
           <span class="btn_icon"><svg width="20" height="16" viewBox="0 0 20 16" fill="none"
               xmlns="http://www.w3.org/2000/svg">
@@ -326,19 +326,7 @@
             </svg></span>
         </a>
       </div>
-    </div>
-    <div class="decoration_item shape_nate_1 wow fadeInUp">
-      <img src="assets/images/shapes/shape_nate_3.svg" alt="Shape Nate">
-    </div>
-    <div class="decoration_item shape_nate_2 wow fadeInUp">
-      <img src="assets/images/shapes/shape_nate_4.svg" alt="Shape Nate">
-    </div>
-    <div class="decoration_item shape_nate_3 wow fadeInUp">
-      <img src="assets/images/shapes/shape_nate_5.svg" alt="Shape Nate">
-    </div>
-    <div class="decoration_item shape_nate_4 wow fadeInUp">
-      <img src="assets/images/shapes/shape_nate_6.svg" alt="Shape Nate">
-    </div>
+    </div>   
   </section>
   <!-- Project Section - End
         ================================================== -->
@@ -367,7 +355,7 @@
         </div>
         <div class="col-lg-6">
           <div class="app_image">
-            <img src="assets/images/about/mobile_app_image.webp" alt="App Image">
+            <img src="assets/img/demat-1.png" alt="App Image">
           </div>
         </div>
 
@@ -380,85 +368,85 @@
         <div class="swiper-wrapper">
           <div class="swiper-slide">
             <div class="image_block">
-              <img src="<?= base_url()?>assets/img/1.png" alt="Client Logo">
+              <img src="<?= base_url() ?>assets/img/1.png" alt="Client Logo">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="image_block">
-              <img src="<?= base_url()?>assets/img/2.png" alt="Client Logo">
+              <img src="<?= base_url() ?>assets/img/2.png" alt="Client Logo">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="image_block">
-              <img src="<?= base_url()?>assets/img/3.png" alt="Client Logo">
+              <img src="<?= base_url() ?>assets/img/3.png" alt="Client Logo">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="image_block">
-              <img src="<?= base_url()?>assets/img/4.png" alt="Client Logo">
+              <img src="<?= base_url() ?>assets/img/4.png" alt="Client Logo">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="image_block">
-              <img src="<?= base_url()?>assets/img/1.png" alt="Client Logo">
+              <img src="<?= base_url() ?>assets/img/1.png" alt="Client Logo">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="image_block">
-              <img src="<?= base_url()?>assets/img/2.png" alt="Client Logo">
+              <img src="<?= base_url() ?>assets/img/2.png" alt="Client Logo">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="image_block">
-              <img src="<?= base_url()?>assets/img/3.png" alt="Client Logo">
+              <img src="<?= base_url() ?>assets/img/3.png" alt="Client Logo">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="image_block">
-              <img src="<?= base_url()?>assets/img/4.png" alt="Client Logo">
+              <img src="<?= base_url() ?>assets/img/4.png" alt="Client Logo">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="image_block">
-              <img src="<?= base_url()?>assets/img/1.png" alt="Client Logo">
+              <img src="<?= base_url() ?>assets/img/1.png" alt="Client Logo">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="image_block">
-              <img src="<?= base_url()?>assets/img/2.png" alt="Client Logo">
+              <img src="<?= base_url() ?>assets/img/2.png" alt="Client Logo">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="image_block">
-              <img src="<?= base_url()?>assets/img/3.png" alt="Client Logo">
+              <img src="<?= base_url() ?>assets/img/3.png" alt="Client Logo">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="image_block">
-              <img src="<?= base_url()?>assets/img/4.png" alt="Client Logo">
+              <img src="<?= base_url() ?>assets/img/4.png" alt="Client Logo">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="image_block">
-              <img src="<?= base_url()?>assets/img/1.png" alt="Client Logo">
+              <img src="<?= base_url() ?>assets/img/1.png" alt="Client Logo">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="image_block">
-              <img src="<?= base_url()?>assets/img/2.png" alt="Client Logo">
+              <img src="<?= base_url() ?>assets/img/2.png" alt="Client Logo">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="image_block">
-              <img src="<?= base_url()?>assets/img/3.png" alt="Client Logo">
+              <img src="<?= base_url() ?>assets/img/3.png" alt="Client Logo">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="image_block">
-              <img src="<?= base_url()?>assets/img/4.png" alt="Client Logo">
+              <img src="<?= base_url() ?>assets/img/4.png" alt="Client Logo">
             </div>
           </div>
-          
+
         </div>
       </div>
     </div>
