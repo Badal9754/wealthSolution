@@ -13,7 +13,7 @@
           Discover solutions that align with your financial goals.
           </p>
           <div class="wow fadeInUp" data-wow-delay=".3s">
-            <a class="btn bg-secondary text-dark" href="contact.html">
+            <a class="btn bg-secondary text-dark" href="<?= base_url()?>">
               <span class="btn_label">Find the Right Insurance</span>
             </a>
           </div>
@@ -22,7 +22,7 @@
     </div>
   </section>
   <!-- ----------About Us----------- -->
-  <section class="about_section  pb-0 bg-light">
+  <section class="about_section about-space  bg-light">
     <div class="container">
       <div class="row align-items-center justify-content-lg-between">
         <div class="col-lg-5">
@@ -66,7 +66,7 @@
     </div>
   </section>
   <!-- ---------Share recovery-------- -->
-  <section class="service_section section_space section_decoration bg-white">
+  <section class="service_section about-space section_decoration bg-white">
     <div class="container">
       <div class="heading_block text-center">
 
@@ -83,7 +83,7 @@
             </div>
             <div class="service_content">
               <h3 class="service_title">
-                <a href="service_details.html">
+                <a href="<?= base_url()?>">
                   Recover Lost Shares
                 </a>
               </h3>
@@ -98,7 +98,7 @@
             </div>
             <div class="service_content">
               <h3 class="service_title">
-                <a href="service_details.html">
+                <a href="<?= base_url()?>">
                   Recovery of Shares after death of Shareholder
                 </a>
               </h3>
@@ -113,7 +113,7 @@
             </div>
             <div class="service_content">
               <h3 class="service_title">
-                <a href="service_details.html">
+                <a href="<?= base_url()?>">
                   Recovery of Paper Shares to Demat
 
                 </a>
@@ -129,7 +129,7 @@
             </div>
             <div class="service_content">
               <h3 class="service_title">
-                <a href="service_details.html">
+                <a href="<?= base_url()?>">
                   ⁠Dividend Transfer to IEPF Recovery
 
                 </a>
@@ -145,7 +145,7 @@
             </div>
             <div class="service_content">
               <h3 class="service_title">
-                <a href="service_details.html">
+                <a href="<?= base_url()?>">
                   ⁠Claim Old Shares
 
                 </a>
@@ -166,7 +166,7 @@
             </div>
             <div class="service_content">
               <h3 class="service_title">
-                <a href="service_details.html">
+                <a href="<?= base_url()?>">
                   Claim Dividends Transferred to IEPF
 
                 </a>
@@ -182,7 +182,7 @@
             </div>
             <div class="service_content">
               <h3 class="service_title">
-                <a href="service_details.html">
+                <a href="<?= base_url()?>">
                 Recover Shares Transfer to IEPF
                 </a>
               </h3>
@@ -197,7 +197,7 @@
             </div>
             <div class="service_content">
               <h3 class="service_title">
-                <a href="service_details.html">
+                <a href="<?= base_url()?>">
                 ⁠Assistance in Recovery of Duplicate Shares
 
                 </a>
@@ -213,7 +213,7 @@
             </div>
             <div class="service_content">
               <h3 class="service_title">
-                <a href="service_details.html">
+                <a href="<?= base_url()?>">
                 ⁠Recovery of Unclaimed Shares
                 </a>
               </h3>
@@ -228,7 +228,7 @@
             </div>
             <div class="service_content">
               <h3 class="service_title">
-                <a href="service_details.html">
+                <a href="<?= base_url()?>">
                 Recovery of Shares from Physical to DEMAT
                 </a>
               </h3>
@@ -242,7 +242,7 @@
 
   <!-- -------------------Service -->
 
-  <section class="feature_section section_space">
+  <section class="feature_section about-space">
     <div class="container">
       <div class="heading_block">
         <div class="heading_block text-center">
@@ -300,7 +300,7 @@
         </div>
       </div>
       <div class="btns_group">
-        <a class="btn bg-dark rounded-pill" href="services.html">
+        <a class="btn bg-dark rounded-pill" href="<?= base_url()?>">
           <span class="btn_label">More Services</span>
           <span class="btn_icon"><svg width="20" height="16" viewBox="0 0 20 16" fill="none"
               xmlns="http://www.w3.org/2000/svg">
@@ -349,74 +349,85 @@
         <div class="swiper-wrapper">
           <div class="swiper-slide">
             <div class="image_block">
-              <img src="assets/images/clients/client_logo_21.webp" alt="Client Logo">
+              <img src="<?= base_url()?>assets/img/1.png" alt="Client Logo">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="image_block">
-              <img src="assets/images/clients/client_logo_22.webp" alt="Client Logo">
+              <img src="<?= base_url()?>assets/img/2.png" alt="Client Logo">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="image_block">
-              <img src="assets/images/clients/client_logo_23.webp" alt="Client Logo">
+              <img src="<?= base_url()?>assets/img/3.png" alt="Client Logo">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="image_block">
-              <img src="assets/images/clients/client_logo_24.webp" alt="Client Logo">
+              <img src="<?= base_url()?>assets/img/4.png" alt="Client Logo">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="image_block">
-              <img src="assets/images/clients/client_logo_25.webp" alt="Client Logo">
+              <img src="<?= base_url()?>assets/img/1.png" alt="Client Logo">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="image_block">
-              <img src="assets/images/clients/client_logo_27.webp" alt="Client Logo">
+              <img src="<?= base_url()?>assets/img/2.png" alt="Client Logo">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="image_block">
-              <img src="assets/images/clients/client_logo_28.webp" alt="Client Logo">
+              <img src="<?= base_url()?>assets/img/3.png" alt="Client Logo">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="image_block">
-              <img src="assets/images/clients/client_logo_29.webp" alt="Client Logo">
+              <img src="<?= base_url()?>assets/img/4.png" alt="Client Logo">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="image_block">
-              <img src="assets/images/clients/client_logo_21.webp" alt="Client Logo">
+              <img src="<?= base_url()?>assets/img/1.png" alt="Client Logo">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="image_block">
-              <img src="assets/images/clients/client_logo_22.webp" alt="Client Logo">
+              <img src="<?= base_url()?>assets/img/2.png" alt="Client Logo">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="image_block">
-              <img src="assets/images/clients/client_logo_23.webp" alt="Client Logo">
+              <img src="<?= base_url()?>assets/img/3.png" alt="Client Logo">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="image_block">
-              <img src="assets/images/clients/client_logo_24.webp" alt="Client Logo">
+              <img src="<?= base_url()?>assets/img/4.png" alt="Client Logo">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="image_block">
-              <img src="assets/images/clients/client_logo_25.webp" alt="Client Logo">
+              <img src="<?= base_url()?>assets/img/1.png" alt="Client Logo">
             </div>
           </div>
           <div class="swiper-slide">
             <div class="image_block">
-              <img src="assets/images/clients/client_logo_27.webp" alt="Client Logo">
+              <img src="<?= base_url()?>assets/img/2.png" alt="Client Logo">
             </div>
           </div>
+          <div class="swiper-slide">
+            <div class="image_block">
+              <img src="<?= base_url()?>assets/img/3.png" alt="Client Logo">
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div class="image_block">
+              <img src="<?= base_url()?>assets/img/4.png" alt="Client Logo">
+            </div>
+          </div>
+          
         </div>
       </div>
     </div>
