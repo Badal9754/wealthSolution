@@ -5,14 +5,14 @@
         <div class="col-lg-4 col-md-6 col-sm-6">
           <div class="site_logo">
             <a class="site_link" href="index-2.html">
-              <img src="<?= base_url()?>assets/img/logo.webp" alt="Site Logo" width="200">
+              <img src="<?= base_url() ?>assets/img/logo.webp" alt="Site Logo" width="200">
             </a>
           </div>
           <ul class="iconlist_block unordered_list_block">
             <li>
               <a href="tel:+112304528759">
                 <span class="iconlist_icon">
-                  <img src="assets/images/icons/icon_calling_2.svg" alt="Icon Calling">
+                  <i class="fa fa-phone" aria-hidden="true"></i>
                 </span>
                 <span class="iconlist_text">+(1) 1230 452 8759</span>
               </a>
@@ -20,7 +20,7 @@
             <li>
               <a href="mailto:synox@mail.com">
                 <span class="iconlist_icon">
-                  <img src="assets/images/icons/icon_email_2.svg" alt="Icon Email">
+                  <i class="fa fa-envelope" aria-hidden="true"></i>
                 </span>
                 <span class="iconlist_text">synox@mail.com</span>
               </a>
@@ -29,7 +29,7 @@
         </div>
         <div class="col-lg-4 col-md-6 col-sm-6 pe-lg-5">
           <h3 class="footer_info_title">Quick LInk</h3>
-          
+
           <ul class="iconlist_block unordered_list_block">
             <li>
               <a href="#!">
