@@ -1,7 +1,6 @@
 <main class="page_content">
   <!-- --------------Hero Section---------- -->
-  <section class="hero_section hero_car_insurance bg-primary section_decoration">
-
+  <section class="hero_section hero_car_insurance section_decoration" style="background-image: url('assets/img/heero.jpg  ');">
     <div class="container text-center">
       <div class="row align-items-center justify-content-lg-between">
         <div class="col-lg-12">
@@ -47,15 +46,6 @@
             </div>
             <div class="form-group">
               <input class="form-control" type="number" name="name" placeholder="Enter Phone Number" required>
-            </div>
-            <div class="form-group">
-              <select class="form-select" name="state">
-                <option value="state" selected>State</option>
-                <option value="volvo">Volvo</option>
-                <option value="saab">Saab</option>
-                <option value="mercedes">Mercedes</option>
-                <option value="audi">Audi</option>
-              </select>
             </div>
             <button class="btn bg-dark text-white" type="submit">
               <span class="btn_label">Submit Now</span>
@@ -240,7 +230,6 @@
   </section>
 
   <!-- -------------------Service -->
-
 
   <section class="feature_section about-space">
     <div class="container">
