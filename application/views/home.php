@@ -1,12 +1,5 @@
-<!-- Main Body - Start
-<!-- Main Body - Start
-      ================================================== -->
 <main class="page_content">
-<main class="page_content">
-
-  <!-- Hero Section - Start
-  <!-- Hero Section - Start
-        ================================================== -->
+  <!-- --------------Hero Section---------- -->
   <section class="hero_section hero_car_insurance bg-primary section_decoration"
     style="background-image: url('assets/images/shapes/shape_car_path_1.png');">
     <div class="hero_car"><img data-parallax='{"y" : 80, "smoothness": 10}' src="assets/images/hero/car.png" alt="">
@@ -28,51 +21,52 @@
         </div>
       </div>
     </div>
-  <section class="hero_section hero_car_insurance bg-primary section_decoration"
-    style="background-image: url('assets/images/shapes/shape_car_path_1.png');">
-    <div class="hero_car"><img data-parallax='{"y" : 80, "smoothness": 10}' src="assets/images/hero/car.png" alt="">
-    </div>
+  </section>
+  <!-- ----------About Us----------- -->
+  <section class="about_section  pb-0 bg-light">
     <div class="container">
       <div class="row align-items-center justify-content-lg-between">
-        <div class="col-lg-6">
-          <h1 class="hero_title text-white wow fadeInUp" data-wow-delay=".1s">
-            Elevate Your Drive with Trusted Car Insurance!
-          </h1>
-          <p class="pe-lg-5 wow fadeInUp" data-wow-delay=".2s">
-            Drive with Peace of Mind: Unleash the Power of Reliable Car Insurance!
-          </p>
-          <div class="wow fadeInUp" data-wow-delay=".3s">
-            <a class="btn bg-secondary text-dark" href="contact.html">
-              <span class="btn_label">Find the Right Insurance</span>
-            </a>
+        <div class="col-lg-5">
+          <div class="heading_block style_2">
+            <div class="badge text-uppercase text-dark bg-dark-subtle">Who we are</div>
+            <h2 class="heading_text">
+              About us Wealth Solution
+            </h2>
+            <p class="heading_description mb-0">
+              We brings you a panel of experts with decades of financial advisory and wealth
+              management , Legal Consultation experience offering unbiased, transparent, and effective solutions. We
+              design Simple solutions tailored to a diverse range of Financial Needs from goal-based investments to
+              intergenerational wealth management using HUF , trusts and estate planning.
+            </p>
           </div>
+        </div>
+        <div class="col-lg-5">
+          <form class="car_insurance_quote_form wow fadeInRight" data-wow-delay=".2s" action="#">
+            <h3 class="heading_text text-center">Get a Free Quote Now</h3>
+            <div class="form-group">
+              <input class="form-control" type="text" name="name" placeholder="Enter Your Name" required>
+            </div>
+            <div class="form-group">
+              <input class="form-control" type="number" name="name" placeholder="Enter Phone Number" required>
+            </div>
+            <div class="form-group">
+              <select class="form-select" name="state">
+                <option value="state" selected>State</option>
+                <option value="volvo">Volvo</option>
+                <option value="saab">Saab</option>
+                <option value="mercedes">Mercedes</option>
+                <option value="audi">Audi</option>
+              </select>
+            </div>
+            <button class="btn bg-dark text-white" type="submit">
+              <span class="btn_label">Submit Now</span>
+            </button>
+          </form>
         </div>
       </div>
     </div>
-
-    <div class="decoration_item shape_nate_1">
-      <img src="assets/images/shapes/shape_nate_36.svg" alt="Shape Nate">
-    </div>
-    <div class="decoration_item shape_nate_2">
-      <img src="assets/images/shapes/shape_nate_36.svg" alt="Shape Nate">
-    </div>
   </section>
-  <!-- Hero Section - End
-    <div class="decoration_item shape_nate_1">
-      <img src="assets/images/shapes/shape_nate_36.svg" alt="Shape Nate">
-    </div>
-    <div class="decoration_item shape_nate_2">
-      <img src="assets/images/shapes/shape_nate_36.svg" alt="Shape Nate">
-    </div>
-  </section>
-  <!-- Hero Section - End
-        ================================================== -->
-
-
-
-
-  <!-- Service Section - Start
-        ================================================== -->
+  <!-- ---------Share recovery-------- -->
   <section class="service_section section_space section_decoration">
     <div class="container">
       <div class="heading_block text-center">
@@ -164,11 +158,11 @@
             </div>
           </div>
         </div>
-         
-        
+
+
       </div>
-      <div  class="service_blocks_group justify-content-center row">
-        
+      <div class="service_blocks_group justify-content-center row">
+
         <div class="col-lg-2 col-md-6 col-sm-6">
           <div class="service_block style_2">
             <div class="service_icon">
@@ -247,7 +241,7 @@
             </div>
           </div>
         </div>
-        
+
       </div>
       <div class="btns_group">
         <a class="btn bg-dark rounded-pill" href="services.html">
@@ -262,119 +256,7 @@
       </div>
     </div>
   </section>
-  <!-- Service Section - End
-        ================================================== -->
-
-  <!-- Process Section - Start
-  <!-- About Section - Start
-        ================================================== -->
-  <section class="about_section  pb-0 bg-light">
-    <div class="container">
-      <div class="row align-items-center justify-content-lg-between">
-        <div class="col-lg-5">
-          <div class="heading_block style_2">
-            <div class="badge text-uppercase text-dark bg-dark-subtle">Who we are</div>
-            <h2 class="heading_text">
-            About us Wealth Solution
-            </h2>
-            <p class="heading_description mb-0">
-              We brings you a panel of experts with decades of financial advisory and wealth
-              management , Legal Consultation experience offering unbiased, transparent, and effective solutions. We
-              design Simple solutions tailored to a diverse range of Financial Needs from goal-based investments to
-              intergenerational wealth management using HUF , trusts and estate planning.
-            </p>
-          </div>
-        </div>
-        <div class="col-lg-5">
-          <form class="car_insurance_quote_form wow fadeInRight" data-wow-delay=".2s" action="#">
-            <h3 class="heading_text text-center">Get a Free Quote Now</h3>
-            <div class="form-group">
-              <input class="form-control" type="text" name="name" placeholder="Enter Your Name" required>
-            </div>
-            <div class="form-group">
-              <input class="form-control" type="number" name="name" placeholder="Enter Phone Number" required>
-            </div>
-            <div class="form-group">
-              <select class="form-select" name="state">
-                <option value="state" selected>State</option>
-                <option value="volvo">Volvo</option>
-                <option value="saab">Saab</option>
-                <option value="mercedes">Mercedes</option>
-                <option value="audi">Audi</option>
-              </select>
-            </div>
-            <button class="btn bg-dark text-white" type="submit">
-              <span class="btn_label">Submit Now</span>
-            </button>
-          </form>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- About Section - End
-  <section class="car_process_section section_space section_decoration">
-    <div class="container">
-      <div class="heading_block text-center">
-        <h2 class="heading_text mb-0">
-          Get Insured In 3 Easy Steps
-        </h2>
-      </div>
-
-      <div class="row">
-        <div class="col-lg-4 wow fadeInUp" data-wow-delay=".1s">
-          <div class="iconbox_block car_insurance_process">
-            <div class="iconbox_icon">
-              <img src="assets/images/icons/icon_phone.svg" alt="Icon Phone">
-            </div>
-            <div class="iconbox_content">
-              <h3 class="iconbox_title">Create Your Account</h3>
-              <p class="mb-0">
-                Join Synox today! Creating your account is fast and easy.
-              </p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 wow fadeInUp" data-wow-delay=".2s">
-          <div class="iconbox_block car_insurance_process">
-            <div class="iconbox_icon">
-              <img src="assets/images/icons/icon_car_2.svg" alt="Icon Car">
-            </div>
-            <div class="iconbox_content">
-              <h3 class="iconbox_title">Choose The Best Car</h3>
-              <p class="mb-0">
-                Choosing the best car depends on factors such as your budget
-              </p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 wow fadeInUp" data-wow-delay=".3s">
-          <div class="iconbox_block car_insurance_process">
-            <div class="iconbox_icon">
-              <img src="assets/images/icons/icon_doc_2.svg" alt="Icon Doc">
-            </div>
-            <div class="iconbox_content">
-              <h3 class="iconbox_title">Manage Your Policy</h3>
-              <p class="mb-0">
-                We value the convenience and of comes managing your policy.
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="decoration_item shape_nate_1">
-      <img src="assets/images/shapes/shape_nate_37.svg" alt="Shape Nate">
-    </div>
-    <div class="decoration_item shape_nate_2">
-      <img src="assets/images/shapes/shape_nate_38.svg" alt="Shape Nate">
-    </div>
-  </section>
-  <!-- Process Section - End
-        ================================================== -->
-
-  <!-- Feature Section - Start
-        ================================================== -->
+ 
   <section class="car_insurance_feature_section section_space pb-0 section_decoration bg-gradient bg-primary">
     <div class="container">
       <div class="heading_block text-center">
@@ -499,11 +381,7 @@
       <img src="assets/images/shapes/shape_car_path_3.webp" alt="Car Path">
     </div>
   </section>
-  <!-- Feature Section - End
-        ================================================== -->
 
-  <!-- Client Logo Section - Start
-        ================================================== -->
   <div class="client_logo_section section_space">
     <div class="container">
       <div class="clients_logo_carousel swiper bg-white">
@@ -582,11 +460,6 @@
       </div>
     </div>
   </div>
-  <!-- Client Logo Section - End
-        ================================================== -->
-
-  <!-- Call To Action Section - Start
-        ================================================== -->
   <section class="car_insurance_cta_section section_decoration bg-gradient bg-primary">
     <div class="container">
       <div class="row">
@@ -758,7 +631,8 @@
                         </div>
                       </div>
                       <p class="review_comment">
-                        "For years, I've trusted Finto Insurance. Their attentive team consistently finds me the perfect
+                        "For years, I've trusted Finto Insurance. Their attentive team consistently finds me the
+                        perfect
                         coverage. I'm confident in their protection of assets."
                       </p>
                     </div>
@@ -775,7 +649,8 @@
                         </div>
                       </div>
                       <p class="review_comment">
-                        "For years, I've trusted Finto Insurance. Their attentive team consistently finds me the perfect
+                        "For years, I've trusted Finto Insurance. Their attentive team consistently finds me the
+                        perfect
                         coverage. I'm confident in their protection of assets."
                       </p>
                     </div>
@@ -792,7 +667,8 @@
                         </div>
                       </div>
                       <p class="review_comment">
-                        "For years, I've trusted Finto Insurance. Their attentive team consistently finds me the perfect
+                        "For years, I've trusted Finto Insurance. Their attentive team consistently finds me the
+                        perfect
                         coverage. I'm confident in their protection of assets."
                       </p>
                     </div>
@@ -809,7 +685,8 @@
                         </div>
                       </div>
                       <p class="review_comment">
-                        "For years, I've trusted Finto Insurance. Their attentive team consistently finds me the perfect
+                        "For years, I've trusted Finto Insurance. Their attentive team consistently finds me the
+                        perfect
                         coverage. I'm confident in their protection of assets."
                       </p>
                     </div>
@@ -826,7 +703,8 @@
                         </div>
                       </div>
                       <p class="review_comment">
-                        "For years, I've trusted Finto Insurance. Their attentive team consistently finds me the perfect
+                        "For years, I've trusted Finto Insurance. Their attentive team consistently finds me the
+                        perfect
                         coverage. I'm confident in their protection of assets."
                       </p>
                     </div>
@@ -843,7 +721,8 @@
                         </div>
                       </div>
                       <p class="review_comment">
-                        "For years, I've trusted Finto Insurance. Their attentive team consistently finds me the perfect
+                        "For years, I've trusted Finto Insurance. Their attentive team consistently finds me the
+                        perfect
                         coverage. I'm confident in their protection of assets."
                       </p>
                     </div>
@@ -860,7 +739,8 @@
                         </div>
                       </div>
                       <p class="review_comment">
-                        "For years, I've trusted Finto Insurance. Their attentive team consistently finds me the perfect
+                        "For years, I've trusted Finto Insurance. Their attentive team consistently finds me the
+                        perfect
                         coverage. I'm confident in their protection of assets."
                       </p>
                     </div>
@@ -877,7 +757,8 @@
                         </div>
                       </div>
                       <p class="review_comment">
-                        "For years, I've trusted Finto Insurance. Their attentive team consistently finds me the perfect
+                        "For years, I've trusted Finto Insurance. Their attentive team consistently finds me the
+                        perfect
                         coverage. I'm confident in their protection of assets."
                       </p>
                     </div>
@@ -894,7 +775,8 @@
                         </div>
                       </div>
                       <p class="review_comment">
-                        "For years, I've trusted Finto Insurance. Their attentive team consistently finds me the perfect
+                        "For years, I've trusted Finto Insurance. Their attentive team consistently finds me the
+                        perfect
                         coverage. I'm confident in their protection of assets."
                       </p>
                     </div>
@@ -917,7 +799,8 @@
                         </div>
                       </div>
                       <p class="review_comment">
-                        "For years, I've trusted Finto Insurance. Their attentive team consistently finds me the perfect
+                        "For years, I've trusted Finto Insurance. Their attentive team consistently finds me the
+                        perfect
                         coverage. I'm confident in their protection of assets."
                       </p>
                     </div>
@@ -934,7 +817,8 @@
                         </div>
                       </div>
                       <p class="review_comment">
-                        "For years, I've trusted Finto Insurance. Their attentive team consistently finds me the perfect
+                        "For years, I've trusted Finto Insurance. Their attentive team consistently finds me the
+                        perfect
                         coverage. I'm confident in their protection of assets."
                       </p>
                     </div>
@@ -951,7 +835,8 @@
                         </div>
                       </div>
                       <p class="review_comment">
-                        "For years, I've trusted Finto Insurance. Their attentive team consistently finds me the perfect
+                        "For years, I've trusted Finto Insurance. Their attentive team consistently finds me the
+                        perfect
                         coverage. I'm confident in their protection of assets."
                       </p>
                     </div>
@@ -968,7 +853,8 @@
                         </div>
                       </div>
                       <p class="review_comment">
-                        "For years, I've trusted Finto Insurance. Their attentive team consistently finds me the perfect
+                        "For years, I've trusted Finto Insurance. Their attentive team consistently finds me the
+                        perfect
                         coverage. I'm confident in their protection of assets."
                       </p>
                     </div>
@@ -985,7 +871,8 @@
                         </div>
                       </div>
                       <p class="review_comment">
-                        "For years, I've trusted Finto Insurance. Their attentive team consistently finds me the perfect
+                        "For years, I've trusted Finto Insurance. Their attentive team consistently finds me the
+                        perfect
                         coverage. I'm confident in their protection of assets."
                       </p>
                     </div>
@@ -1002,7 +889,8 @@
                         </div>
                       </div>
                       <p class="review_comment">
-                        "For years, I've trusted Finto Insurance. Their attentive team consistently finds me the perfect
+                        "For years, I've trusted Finto Insurance. Their attentive team consistently finds me the
+                        perfect
                         coverage. I'm confident in their protection of assets."
                       </p>
                     </div>
@@ -1019,7 +907,8 @@
                         </div>
                       </div>
                       <p class="review_comment">
-                        "For years, I've trusted Finto Insurance. Their attentive team consistently finds me the perfect
+                        "For years, I've trusted Finto Insurance. Their attentive team consistently finds me the
+                        perfect
                         coverage. I'm confident in their protection of assets."
                       </p>
                     </div>
@@ -1036,7 +925,8 @@
                         </div>
                       </div>
                       <p class="review_comment">
-                        "For years, I've trusted Finto Insurance. Their attentive team consistently finds me the perfect
+                        "For years, I've trusted Finto Insurance. Their attentive team consistently finds me the
+                        perfect
                         coverage. I'm confident in their protection of assets."
                       </p>
                     </div>
@@ -1053,7 +943,8 @@
                         </div>
                       </div>
                       <p class="review_comment">
-                        "For years, I've trusted Finto Insurance. Their attentive team consistently finds me the perfect
+                        "For years, I've trusted Finto Insurance. Their attentive team consistently finds me the
+                        perfect
                         coverage. I'm confident in their protection of assets."
                       </p>
                     </div>
@@ -1187,5 +1078,3 @@
         ================================================== -->
 
 </main>
-<!-- Main Body - End
-      ================================================== -->
