@@ -1,7 +1,10 @@
 <!-- Main Body - Start
+<!-- Main Body - Start
       ================================================== -->
 <main class="page_content">
+<main class="page_content">
 
+  <!-- Hero Section - Start
   <!-- Hero Section - Start
         ================================================== -->
   <section class="hero_section hero_car_insurance bg-primary section_decoration"
@@ -25,7 +28,36 @@
         </div>
       </div>
     </div>
+  <section class="hero_section hero_car_insurance bg-primary section_decoration"
+    style="background-image: url('assets/images/shapes/shape_car_path_1.png');">
+    <div class="hero_car"><img data-parallax='{"y" : 80, "smoothness": 10}' src="assets/images/hero/car.png" alt="">
+    </div>
+    <div class="container">
+      <div class="row align-items-center justify-content-lg-between">
+        <div class="col-lg-6">
+          <h1 class="hero_title text-white wow fadeInUp" data-wow-delay=".1s">
+            Elevate Your Drive with Trusted Car Insurance!
+          </h1>
+          <p class="pe-lg-5 wow fadeInUp" data-wow-delay=".2s">
+            Drive with Peace of Mind: Unleash the Power of Reliable Car Insurance!
+          </p>
+          <div class="wow fadeInUp" data-wow-delay=".3s">
+            <a class="btn bg-secondary text-dark" href="contact.html">
+              <span class="btn_label">Find the Right Insurance</span>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
 
+    <div class="decoration_item shape_nate_1">
+      <img src="assets/images/shapes/shape_nate_36.svg" alt="Shape Nate">
+    </div>
+    <div class="decoration_item shape_nate_2">
+      <img src="assets/images/shapes/shape_nate_36.svg" alt="Shape Nate">
+    </div>
+  </section>
+  <!-- Hero Section - End
     <div class="decoration_item shape_nate_1">
       <img src="assets/images/shapes/shape_nate_36.svg" alt="Shape Nate">
     </div>
@@ -234,7 +266,52 @@
         ================================================== -->
 
   <!-- Process Section - Start
+  <!-- About Section - Start
         ================================================== -->
+  <section class="about_section  pb-0 bg-light">
+    <div class="container">
+      <div class="row align-items-center justify-content-lg-between">
+        <div class="col-lg-5">
+          <div class="heading_block style_2">
+            <div class="badge text-uppercase text-dark bg-dark-subtle">Who we are</div>
+            <h2 class="heading_text">
+            About us Wealth Solution
+            </h2>
+            <p class="heading_description mb-0">
+              We brings you a panel of experts with decades of financial advisory and wealth
+              management , Legal Consultation experience offering unbiased, transparent, and effective solutions. We
+              design Simple solutions tailored to a diverse range of Financial Needs from goal-based investments to
+              intergenerational wealth management using HUF , trusts and estate planning.
+            </p>
+          </div>
+        </div>
+        <div class="col-lg-5">
+          <form class="car_insurance_quote_form wow fadeInRight" data-wow-delay=".2s" action="#">
+            <h3 class="heading_text text-center">Get a Free Quote Now</h3>
+            <div class="form-group">
+              <input class="form-control" type="text" name="name" placeholder="Enter Your Name" required>
+            </div>
+            <div class="form-group">
+              <input class="form-control" type="number" name="name" placeholder="Enter Phone Number" required>
+            </div>
+            <div class="form-group">
+              <select class="form-select" name="state">
+                <option value="state" selected>State</option>
+                <option value="volvo">Volvo</option>
+                <option value="saab">Saab</option>
+                <option value="mercedes">Mercedes</option>
+                <option value="audi">Audi</option>
+              </select>
+            </div>
+            <button class="btn bg-dark text-white" type="submit">
+              <span class="btn_label">Submit Now</span>
+            </button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- About Section - End
   <section class="car_process_section section_space section_decoration">
     <div class="container">
       <div class="heading_block text-center">
