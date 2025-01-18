@@ -3420,43 +3420,33 @@ input[type="search"]::-webkit-search-results-decoration {
   padding: 80px 0 100px;
   background-size: auto 100%;
   background-repeat: no-repeat;
-  background-position: right 33.2% top;
-}
-.hero_car_insurance .hero_title {
-  font-size: 60px;
-  line-height: 70px;
-  margin-bottom: 16px;
-}
-.hero_car_insurance p {
-  font-size: 24px;
-  margin: 0 0 41px;
-  color: var(--bs-white);
-}
-.hero_car_insurance .rating_block {
-  margin: 72px 0 30px;
-}
-.hero_car_insurance .rating_block [class*="fa-star"] {
-  color: #d9ff43;
-}
-.hero_car_insurance .clients_logo {
-  gap: 30px 50px;
-}
-.hero_car_insurance .clients_logo img {
-  max-height: 40px;
-}
-.hero_car_insurance .shape_nate_1 {
-  left: 0;
-  top: -94px;
-}
-.hero_car_insurance .shape_nate_2 {
-  top: -99px;
-  right: -240px;
-}
-.hero_car_insurance .hero_car {
-  position: absolute;
-  bottom: 12%;
-  right: 44.7%;
-}
+  background-position: right 33.2% top; }
+  .hero_car_insurance .hero_title {
+    font-size: 45px;
+    line-height: 70px;
+    margin-bottom: 16px; }
+  .hero_car_insurance p {
+    font-size: 24px;
+    margin: 0 0 41px;
+    color: var(--bs-white); }
+  .hero_car_insurance .rating_block {
+    margin: 72px 0 30px; }
+    .hero_car_insurance .rating_block [class*="fa-star"] {
+      color: #D9FF43; }
+  .hero_car_insurance .clients_logo {
+    gap: 30px 50px; }
+    .hero_car_insurance .clients_logo img {
+      max-height: 40px; }
+  .hero_car_insurance .shape_nate_1 {
+    left: 0;
+    top: -94px; }
+  .hero_car_insurance .shape_nate_2 {
+    top: -99px;
+    right: -240px; }
+  .hero_car_insurance .hero_car {
+    position: absolute;
+    bottom: 12%;
+    right: 44.7%; }
 
 /* Hero Sections - End
 ================================================== */
