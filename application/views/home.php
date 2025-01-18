@@ -21,59 +21,6 @@
                     <span class="btn_label">Find the Right Insurance</span>
                   </a>
                 </div>
-                <div class="rating_block wow fadeInUp" data-wow-delay=".4s">
-                  <span>
-                    <i class="fa-solid fa-star"></i>
-                    <i class="fa-solid fa-star"></i>
-                    <i class="fa-solid fa-star"></i>
-                    <i class="fa-solid fa-star"></i>
-                    <i class="fa-solid fa-star-half-stroke"></i>
-                  </span>
-                  <div class="rating_counter text-white">Rated 4.8 stars by customers on</div>
-                </div>
-                <ul class="clients_logo unordered_list wow fadeInUp" data-wow-delay=".5s">
-                  <li>
-                    <img src="assets/images/clients/client_logo_30.webp" alt="Client Logo">
-                  </li>
-                  <li>
-                    <img src="assets/images/clients/client_logo_31.webp" alt="Client Logo">
-                  </li>
-                </ul>
-              </div>
-              <div class="col-lg-5">
-                <form class="car_insurance_quote_form wow fadeInRight" data-wow-delay=".2s" action="#">
-                  <h3 class="heading_text text-center">Get a Free Quote Now</h3>
-                  <div class="form-group">
-                    <input class="form-control" type="text" name="name" placeholder="Rasalina WIllmson" required>
-                  </div>
-                  <div class="form-group">
-                    <select class="form-select" name="state">
-                      <option value="state" selected>State</option>
-                      <option value="volvo">Volvo</option>
-                      <option value="saab">Saab</option>
-                      <option value="mercedes">Mercedes</option>
-                      <option value="audi">Audi</option>
-                    </select>
-                  </div>
-                  <div class="form-group">
-                    <select class="form-select" name="zipcode">
-                      <option value="zipcode" selected>Zip Code</option>
-                      <option value="volvo">Volvo</option>
-                      <option value="saab">Saab</option>
-                      <option value="mercedes">Mercedes</option>
-                      <option value="audi">Audi</option>
-                    </select>
-                  </div>
-                  <div class="form-group">
-                    <input class="form-control" type="email" name="email" placeholder="Email Address" required>
-                  </div>
-                  <div class="form-group">
-                    <input class="form-control" type="tel" name="phone" placeholder="Mobile Number" required>
-                  </div>
-                  <button class="btn bg-dark text-white" type="submit">
-                    <span class="btn_label">Submit Now</span>
-                  </button>
-                </form>
               </div>
             </div>
           </div>
