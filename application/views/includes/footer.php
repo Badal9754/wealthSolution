@@ -12,7 +12,7 @@
             <li>
               <a href="tel:+(91) 9399125864 ">
                 <span class="iconlist_icon">
-                  <img src="assets/images/icons/icon_calling_2.svg" alt="Icon Calling">
+                  <i class="fa fa-phone" aria-hidden="true"></i>
                 </span>
                 <span class="iconlist_text">+(91) 9399125864 </span>
               </a>
@@ -20,7 +20,7 @@
             <li>
               <a href="mailto: wealthsolutionhub@gmail.com">
                 <span class="iconlist_icon">
-                  <img src="assets/images/icons/icon_email_2.svg" alt="Icon Email">
+                  <i class="fa fa-envelope" aria-hidden="true"></i>
                 </span>
                 <span class="iconlist_text"> wealthsolutionhub@gmail.com</span>
               </a>
@@ -29,7 +29,7 @@
         </div>
         <div class="col-lg-4 col-md-6 col-sm-6 pe-lg-5">
           <h3 class="footer_info_title">Quick LInk</h3>
-          
+
           <ul class="iconlist_block unordered_list_block">
             <li>
               <a href="<?= base_url()?>">

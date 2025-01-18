@@ -1,16 +1,15 @@
 <main class="page_content">
   <!-- --------------Hero Section---------- -->
-  <section class="hero_section hero_car_insurance bg-primary section_decoration"
-     >
-     
+  <section class="hero_section hero_car_insurance bg-primary section_decoration">
+
     <div class="container text-center">
       <div class="row align-items-center justify-content-lg-between">
         <div class="col-lg-12">
           <h1 class="hero_title text-white wow fadeInUp" data-wow-delay=".1s">
-          Empowering Your Wealth, Elevating <br> Your Life
+            Empowering Your Wealth, Elevating <br> Your Life
           </h1>
           <p class="pe-lg-5 wow fadeInUp" data-wow-delay=".2s">
-          Discover solutions that align with your financial goals.
+            Discover solutions that align with your financial goals.
           </p>
           <div class="wow fadeInUp" data-wow-delay=".3s">
             <a class="btn bg-secondary text-dark" href="<?= base_url()?>">
@@ -40,7 +39,8 @@
           </div>
         </div>
         <div class="col-lg-5">
-          <form class="car_insurance_quote_form wow fadeInRight" data-wow-delay=".2s" action="#" style="box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;">
+          <form class="car_insurance_quote_form wow fadeInRight" data-wow-delay=".2s" action="#"
+            style="box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;">
             <h3 class="heading_text text-center">Get a Free Quote Now</h3>
             <div class="form-group">
               <input class="form-control" type="text" name="name" placeholder="Enter Your Name" required>
@@ -236,11 +236,11 @@
           </div>
         </div>
       </div>
-
     </div>
   </section>
 
   <!-- -------------------Service -->
+  <section class="project_section section_space section_decoration overflow-hidden">
 
   <section class="feature_section about-space">
     <div class="container">
@@ -254,50 +254,66 @@
       </div>
       <div class="row">
         <div class="col-lg-4">
-          <div class="features_block bg-Dblue">
-            <div class="features_icon">
-              <img src="assets/images/icons/icon_dollar_bag.svg" alt="Icon Dollar Bag">
-            </div>
-            <div class="features_content">
-              <h3 class="features_title text-white">
-                Funding & Investment
-              </h3>
-              <p class="mb-0">
-                At Synox we excel funding & investing, guiding strategic decisions.
-              </p>
-            </div>
-          </div>
+          <a class="image_hover_effect_block" href="project_details.html">
+            <span class="image_wrap">
+              <img src="assets/images/projects/project_image_3.webp" alt="Project Image">
+            </span>
+            <span class="content_wrap">
+              <strong class="item_title">Unclaimed Share</strong>
+            </span>
+          </a>
         </div>
         <div class="col-lg-4">
-          <div class="features_block bg-Dblue">
-            <div class="features_icon">
-              <img src="assets/images/icons/icon_overlap.svg" alt="Icon Overlap">
-            </div>
-            <div class="features_content">
-              <h3 class="features_title text-white">
-                Capital Transparency
-              </h3>
-              <p class="mb-0">
-                We prioritize capital transparency Our commitment ensures clarity.
-              </p>
-            </div>
-          </div>
+          <a class="image_hover_effect_block" href="project_details.html">
+            <span class="image_wrap">
+              <img src="assets/images/projects/project_image_3.webp" alt="Project Image">
+            </span>
+            <span class="content_wrap">
+              <strong class="item_title">Share, Bond And Mutual Fund Claim After Death</strong>
+            </span>
+          </a>
         </div>
         <div class="col-lg-4">
-          <div class="features_block bg-Dblue">
-            <div class="features_icon">
-              <img src="assets/images/icons/icon_chart_bar.svg" alt="Icon Chart Bar">
-            </div>
-            <div class="features_content">
-              <h3 class="features_title text-white">
-                Secure Investment Plan
-              </h3>
-              <p class="mb-0">
-                Our Secure Investment Plan at Synox ensures stability and growth.
-              </p>
-            </div>
-          </div>
+          <a class="image_hover_effect_block" href="project_details.html">
+            <span class="image_wrap">
+              <img src="assets/images/projects/project_image_4.webp" alt="Project Image">
+            </span>
+            <span class="content_wrap">
+              <strong class="item_title">Share Dematerialisation</strong>
+            </span>
+          </a>
         </div>
+        <div class="col-lg-4">
+          <a class="image_hover_effect_block" href="project_details.html">
+            <span class="image_wrap">
+              <img src="assets/images/projects/project_image_4.webp" alt="Project Image">
+            </span>
+            <span class="content_wrap">
+              <strong class="item_title">Legal Consultation</strong>
+            </span>
+          </a>
+        </div>
+        <div class="col-lg-4">
+          <a class="image_hover_effect_block" href="project_details.html">
+            <span class="image_wrap">
+              <img src="assets/images/projects/project_image_4.webp" alt="Project Image">
+            </span>
+            <span class="content_wrap">
+              <strong class="item_title">NRI Services</strong>
+            </span>
+          </a>
+        </div>
+        <div class="col-lg-4">
+          <a class="image_hover_effect_block" href="project_details.html">
+            <span class="image_wrap">
+              <img src="assets/images/projects/project_image_4.webp" alt="Project Image">
+            </span>
+            <span class="content_wrap">
+              <strong class="item_title">Transmission of Shares</strong>
+            </span>
+          </a>
+        </div>
+
       </div>
       <div class="btns_group">
         <a class="btn bg-dark rounded-pill" href="<?= base_url()?>">
@@ -311,7 +327,22 @@
         </a>
       </div>
     </div>
+    <div class="decoration_item shape_nate_1 wow fadeInUp">
+      <img src="assets/images/shapes/shape_nate_3.svg" alt="Shape Nate">
+    </div>
+    <div class="decoration_item shape_nate_2 wow fadeInUp">
+      <img src="assets/images/shapes/shape_nate_4.svg" alt="Shape Nate">
+    </div>
+    <div class="decoration_item shape_nate_3 wow fadeInUp">
+      <img src="assets/images/shapes/shape_nate_5.svg" alt="Shape Nate">
+    </div>
+    <div class="decoration_item shape_nate_4 wow fadeInUp">
+      <img src="assets/images/shapes/shape_nate_6.svg" alt="Shape Nate">
+    </div>
   </section>
+  <!-- Project Section - End
+        ================================================== -->
+
 
 
 
@@ -319,20 +350,20 @@
         ================================================== -->
   <section class="appstore_section section_decoration bg-white">
     <div class="container">
-      <div class="row justify-content-lg-between"  style="align-items: center;">
+      <div class="row justify-content-lg-between" style="align-items: center;">
 
         <div class="col-lg-6 ">
           <div class="heading_block style_2">
 
             <h3 class="heading_text">
-              Open Demat & Trading Account
+              <span style="color:red;">Open</span> Demat & Trading Account
             </h3>
             <p class="heading_description mb-0 text-dark">
               Invest with Ease. Trade with Speed.<br>
               Open trading account online in less than 10 minutes!
             </p>
           </div>
-          
+
         </div>
         <div class="col-lg-6">
           <div class="app_image">
