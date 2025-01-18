@@ -318,41 +318,29 @@
 
   <!-- Call To Action Section - End
         ================================================== -->
-  <section class="appstore_section section_decoration"
-    style="background-image: url('assets/images/backgrounds/app_store_bg_1.webp');">
+  <section class="appstore_section section_decoration">
     <div class="container">
       <div class="row justify-content-lg-between">
-        <div class="col-lg-5 order-lg-last">
+
+        <div class="col-lg-6 ">
           <div class="heading_block style_2">
-            <div class="badge text-uppercase text-dark bg-dark-subtle"><i class="fa-solid fa-fire"></i> Mobile App 2.0
-              <b>NEW</b></div>
-            <h2 class="heading_text">
-              Download and enjoy the experience
-            </h2>
+
+            <h3 class="heading_text">
+              Open Demat & Trading Account
+            </h3>
             <p class="heading_description mb-0 text-dark">
-              Don't miss out! Download now for seamless functionalities and endless possibilities.
+              Invest with Ease. Trade with Speed.<br>
+              Open trading account online in less than 10 minutes!
             </p>
           </div>
-          <ul class="btns_group appp_btn unordered_list justify-content-start pt-0">
-            <li>
-              <a class="btn bg-dark rounded-pill" href="#!">
-                <span class="btn_icon"><i class="fa-brands fa-apple"></i></span>
-                <span class="btn_label">Apple iOS</span>
-              </a>
-            </li>
-            <li>
-              <a class="btn bg-dark rounded-pill" href="#!">
-                <span class="btn_icon"><i class="fa-brands fa-android"></i></span>
-                <span class="btn_label">Android</span>
-              </a>
-            </li>
-          </ul>
+          
         </div>
         <div class="col-lg-6">
           <div class="app_image">
             <img src="assets/images/about/mobile_app_image.webp" alt="App Image">
           </div>
         </div>
+
       </div>
     </div>
   </section>
