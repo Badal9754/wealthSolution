@@ -1,4 +1,6 @@
 <!-- Site Footer - Start
+
+       <!-- Site Footer - Start
       ================================================== -->
       <footer class="site_footer footer_layout_1 bg-secondary section_decoration" style="background-image: url('assets/images/backgrounds/footer_bg_1.webp');">
         <div class="container">

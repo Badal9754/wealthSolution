@@ -233,11 +233,9 @@
 
                 </a>
               </h3>
-
             </div>
           </div>
         </div>
-
       </div>
 
     </div>
@@ -245,7 +243,7 @@
 
   <!-- -------------------Service -->
 
-  <section class="feature_section ">
+  <section class="feature_section section_space">
     <div class="container">
       <div class="heading_block">
         <div class="heading_block text-center">
@@ -257,7 +255,7 @@
       </div>
       <div class="row">
         <div class="col-lg-4">
-          <div class="features_block bg-dark">
+          <div class="features_block bg-Dblue">
             <div class="features_icon">
               <img src="assets/images/icons/icon_dollar_bag.svg" alt="Icon Dollar Bag">
             </div>
@@ -272,7 +270,7 @@
           </div>
         </div>
         <div class="col-lg-4">
-          <div class="features_block bg-dark">
+          <div class="features_block bg-Dblue">
             <div class="features_icon">
               <img src="assets/images/icons/icon_overlap.svg" alt="Icon Overlap">
             </div>
@@ -287,7 +285,7 @@
           </div>
         </div>
         <div class="col-lg-4">
-          <div class="features_block bg-dark">
+          <div class="features_block bg-Dblue">
             <div class="features_icon">
               <img src="assets/images/icons/icon_chart_bar.svg" alt="Icon Chart Bar">
             </div>
@@ -436,4 +434,5 @@
       </div>
     </div>
   </div>
+
 </main>
