@@ -70,9 +70,9 @@
   <section class="service_section section_space section_decoration bg-white">
     <div class="container">
       <div class="heading_block text-center">
-       
+
         <h2 class="heading_text mb-0">
-         Share Recovery Consultation
+          Share Recovery Consultation
         </h2>
       </div>
       <div class="service_blocks_group justify-content-center row">
@@ -239,7 +239,7 @@
         </div>
 
       </div>
-   
+
     </div>
   </section>
 
@@ -317,6 +317,47 @@
   </section>
 
 
+
+  <!-- Call To Action Section - End
+        ================================================== -->
+  <section class="appstore_section section_decoration"
+    style="background-image: url('assets/images/backgrounds/app_store_bg_1.webp');">
+    <div class="container">
+      <div class="row justify-content-lg-between">
+        <div class="col-lg-5 order-lg-last">
+          <div class="heading_block style_2">
+            <div class="badge text-uppercase text-dark bg-dark-subtle"><i class="fa-solid fa-fire"></i> Mobile App 2.0
+              <b>NEW</b></div>
+            <h2 class="heading_text">
+              Download and enjoy the experience
+            </h2>
+            <p class="heading_description mb-0 text-dark">
+              Don't miss out! Download now for seamless functionalities and endless possibilities.
+            </p>
+          </div>
+          <ul class="btns_group appp_btn unordered_list justify-content-start pt-0">
+            <li>
+              <a class="btn bg-dark rounded-pill" href="#!">
+                <span class="btn_icon"><i class="fa-brands fa-apple"></i></span>
+                <span class="btn_label">Apple iOS</span>
+              </a>
+            </li>
+            <li>
+              <a class="btn bg-dark rounded-pill" href="#!">
+                <span class="btn_icon"><i class="fa-brands fa-android"></i></span>
+                <span class="btn_label">Android</span>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="col-lg-6">
+          <div class="app_image">
+            <img src="assets/images/about/mobile_app_image.webp" alt="App Image">
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
   <div class="client_logo_section section_space">
     <div class="container">
       <div class="clients_logo_carousel swiper bg-white">
@@ -395,43 +436,4 @@
       </div>
     </div>
   </div>
-  <!-- Call To Action Section - End
-        ================================================== -->
-        <section class="appstore_section section_decoration" style="background-image: url('assets/images/backgrounds/app_store_bg_1.webp');">
-          <div class="container">
-            <div class="row justify-content-lg-between">
-              <div class="col-lg-5 order-lg-last">
-                <div class="heading_block style_2">
-                  <div class="badge text-uppercase text-dark bg-dark-subtle"><i class="fa-solid fa-fire"></i> Mobile App 2.0 <b>NEW</b></div>
-                  <h2 class="heading_text">
-                    Download and enjoy the experience
-                  </h2>
-                  <p class="heading_description mb-0 text-dark">
-                    Don't miss out! Download now for seamless functionalities and endless possibilities.
-                  </p>
-                </div>
-                <ul class="btns_group appp_btn unordered_list justify-content-start pt-0">
-                  <li>
-                    <a class="btn bg-dark rounded-pill" href="#!">
-                      <span class="btn_icon"><i class="fa-brands fa-apple"></i></span>
-                      <span class="btn_label">Apple iOS</span>
-                    </a>
-                  </li>
-                  <li>
-                    <a class="btn bg-dark rounded-pill" href="#!">
-                      <span class="btn_icon"><i class="fa-brands fa-android"></i></span>
-                      <span class="btn_label">Android</span>
-                    </a>
-                  </li>
-                </ul>
-              </div>
-              <div class="col-lg-6">
-                <div class="app_image">
-                  <img src="assets/images/about/mobile_app_image.webp" alt="App Image">
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
-
 </main>

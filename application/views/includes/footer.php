@@ -1,156 +1,127 @@
-
-      <!-- Site Footer - Start
+<!-- Site Footer - Start
       ================================================== -->
-      <footer class="site_footer footer_layout_6 bg-secondary section_space pb-0 section_decoration">
+      <footer class="site_footer footer_layout_1 bg-secondary section_decoration" style="background-image: url('assets/images/backgrounds/footer_bg_1.webp');">
         <div class="container">
-          <div class="row">
-            <div class="col-lg-7">
-              <div class="app_download_wrapper bg-primary" style="background-image: url('assets/images/shapes/shape_nate_40.svg');">
-                <div class="site_logo">
+          <div class="footer_content_wrapper">
+            <div class="row">
+              <div class="col-lg-4 col-md-6 col-sm-6">
+              <div class="site_logo">
                   <a class="site_link" href="index-2.html">
-                    <img src="assets/images/site_logo/site_logo_white_2.svg" alt="Site Logo White">
+                    <img src="assets/images/site_logo/site_logo_white.svg" alt="Site Logo">
                   </a>
                 </div>
-                <div class="heading_block style_2">
-                  <div class="badge text-uppercase text-white p-0">
-                    <i class="fa-solid fa-fire me-1"></i> Mobile App 2.0
-                    <span class="ms-1">NEW</span>
-                  </div>
-                  <h2 class="heading_text mb-0 text-white">
-                    Download and Enjoy the Experience
-                  </h2>
-                </div>
-                <ul class="btns_group unordered_list justify-content-start">
+                <ul class="iconlist_block unordered_list_block">
                   <li>
-                    <a class="btn bg-white text-dark" href="#!">
-                      <span class="btn_icon"><i class="fa-brands fa-apple"></i></span>
-                      <span class="btn_label">Apple iOS</span>
+                    <a href="tel:+112304528759">
+                      <span class="iconlist_icon">
+                        <img src="assets/images/icons/icon_calling_2.svg" alt="Icon Calling">
+                      </span>
+                      <span class="iconlist_text">+(1) 1230 452 8759</span>
                     </a>
                   </li>
                   <li>
-                    <a class="btn bg-white text-dark" href="#!">
-                      <span class="btn_icon"><i class="fa-brands fa-android"></i></span>
-                      <span class="btn_label">Android</span>
+                    <a href="mailto:synox@mail.com">
+                      <span class="iconlist_icon">
+                        <img src="assets/images/icons/icon_email_2.svg" alt="Icon Email">
+                      </span>
+                      <span class="iconlist_text">synox@mail.com</span>
                     </a>
                   </li>
                 </ul>
-                <div class="hand_image">
-                  <img src="assets/images/about/hand_image.webp" alt="Hand Image">
-                </div>
+                <p class="mb-0 pe-lg-5">
+                  Waterloo, Macquarie Park NSW 2113, Australia
+                </p>
               </div>
-            </div>
-            <div class="col-lg-5">
-              <div class="contact_wrapper">
-                <div class="row">
-                  <div class="col-md-6">
-                    <div class="iconbox_block">
-                      <h3 class="iconbox_title">Write to Us</h3>
-                      <p class="mb-0">
-                        Synox@gmail.com
-                      </p>
-                    </div>
-                  </div>
-                  <div class="col-md-6">
-                    <div class="iconbox_block">
-                      <h3 class="iconbox_title">Call Us</h3>
-                      <p class="mb-0">
-                        +(1) 1230 452 8597
-                      </p>
-                    </div>
-                  </div>
-                </div>
-                <hr>
-                <div class="row">
-                  <div class="col-md-6">
-                    <h3 class="footer_info_title">Useful Links</h3>
-                    <ul class="iconlist_block mb-0 unordered_list_block">
-                      <li>
-                        <a href="#!">
-                          <span class="iconlist_text">Process</span>
-                        </a>
-                      </li>
-                      <li>
-                        <a href="#!">
-                          <span class="iconlist_text">Features</span>
-                        </a>
-                      </li>
-                      <li>
-                        <a href="#!">
-                          <span class="iconlist_text">Testimonial</span>
-                        </a>
-                      </li>
-                      <li>
-                        <a href="#!">
-                          <span class="iconlist_text">News</span>
-                        </a>
-                      </li>
-                      <li>
-                        <a href="#!">
-                          <span class="iconlist_text">Contact</span>
-                        </a>
-                      </li>
-                    </ul>
-                  </div>
-                  <div class="col-md-6">
-                    <h3 class="footer_info_title">Useful Links</h3>
-                    <ul class="iconlist_block mb-0 unordered_list_block">
-                      <li>
-                        <a href="#!">
-                          <span class="iconlist_text">Process</span>
-                        </a>
-                      </li>
-                      <li>
-                        <a href="#!">
-                          <span class="iconlist_text">Features</span>
-                        </a>
-                      </li>
-                      <li>
-                        <a href="#!">
-                          <span class="iconlist_text">Testimonial</span>
-                        </a>
-                      </li>
-                      <li>
-                        <a href="#!">
-                          <span class="iconlist_text">News</span>
-                        </a>
-                      </li>
-                      <li>
-                        <a href="#!">
-                          <span class="iconlist_text">Contact</span>
-                        </a>
-                      </li>
-                    </ul>
-                  </div>
-                </div>
-                <form class="newsletter_input" action="#">
-                  <label for="footer_newsletter_input">
-                    <img src="assets/images/icons/icon_email_4.svg" alt="Icon Email">
-                  </label>
-                  <input id="footer_newsletter_input" type="email" name="email" placeholder="Email address">
-                  <button class="submit_btn" type="submit">
-                    <i class="fa-solid fa-paper-plane"></i>
-                  </button>
-                </form>
+              <div class="col-lg-4 col-md-6 col-sm-6 pe-lg-5">
+                <h3 class="footer_info_title">Quick LInk</h3>
+                <ul class="iconlist_block unordered_list_block">
+                  <li>
+                    <a href="#!">
+                      <span class="iconlist_text">Gold Investment</span>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="#!">
+                      <span class="iconlist_text">Property Investment</span>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="#!">
+                      <span class="iconlist_text">Gold Investment</span>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="#!">
+                      <span class="iconlist_text">Product Salute</span>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="#!">
+                      <span class="iconlist_text">Digital Investment</span>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-4 col-md-6 col-sm-6 pe-lg-5">
+                <h3 class="footer_info_title">Information</h3>
+                <ul class="iconlist_block unordered_list_block">
+                  <li>
+                    <a href="#!">
+                      <span class="iconlist_text">Career</span>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="#!">
+                      <span class="iconlist_text">Privacy Policy</span>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="#!">
+                      <span class="iconlist_text">Terms & condition</span>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="#!">
+                      <span class="iconlist_text">Refund & News</span>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="#!">
+                      <span class="iconlist_text">Awards & Partners</span>
+                    </a>
+                  </li>
+                </ul>
               </div>
             </div>
           </div>
-
-          <div class="footer_bottom_wrapper text-center">
-            <p class="copyright_text mb-0">
-              Copyright © 2024 Synox, All rights reserved.
-            </p>
+          <div class="footer_bottom">
+            <div class="row">
+              <div class="col-md-6">
+                <p class="copyright_text mb-0 text-white">
+                  Copyright © 2024 Synox, All rights reserved.
+                </p>
+              </div>
+              <div class="col-md-6">
+                <div class="d-flex align-items-center justify-content-center justify-content-md-end">
+                  <p class="mb-0 text-white">Follow Us -</p>
+                  <ul class="social_icons_block unordered_list ms-3">
+                    <li>
+                      <a aria-label="Twitter X" href="#!">
+                        <svg viewBox="0 0 15 15" xmlns="http://www.w3.org/2000/svg">
+                          <path d="M8.92704 6.35148L14.5111 0H13.1879L8.33921 5.5149L4.4666 0H0L5.85615 8.3395L0 15H1.32333L6.44364 9.17608L10.5334 15H15L8.92671 6.35148H8.92704ZM7.11456 8.41297L6.52121 7.58255L1.80014 0.974755H3.83269L7.64265 6.30746L8.236 7.13788L13.1885 14.0696H11.156L7.11456 8.41329V8.41297Z"/>
+                        </svg>
+                      </a>
+                    </li>
+                    <li><a aria-label="Facebook" href="#!"><i class="fa-brands fa-facebook-f"></i></a></li>
+                    <li><a aria-label="Linkedin" href="#!"><i class="fa-brands fa-linkedin-in"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
           </div>
-        </div>
-
-        <div class="decoration_item shape_car_path_1">
-          <img src="assets/images/shapes/shape_car_path_4.webp" alt="Shape Path">
-        </div>
-        <div class="decoration_item shape_car_path_2">
-          <img src="assets/images/shapes/shape_car_path_5.webp" alt="Shape Path">
         </div>
       </footer>
       <!-- Site Footer - End
       ================================================== -->
-
     </div>
     <!-- Body Wrap - End -->
