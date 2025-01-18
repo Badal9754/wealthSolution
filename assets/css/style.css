@@ -795,7 +795,9 @@ mark {
   line-height: 28px;
   text-align: justify;
  }
-
+.bg-Dblue{
+  background: #003976e6;
+}
 .heading_block.text-white .heading_text {
   color: var(--bs-white); }
 
