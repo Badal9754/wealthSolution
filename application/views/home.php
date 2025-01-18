@@ -28,7 +28,7 @@
       <div class="row align-items-center justify-content-lg-between">
         <div class="col-lg-5">
           <div class="heading_block style_2">
-            <div class="badge text-uppercase text-dark bg-dark-subtle">Who we are</div>
+            <div class="badge text-uppercase">Who we are</div>
             <h2 class="heading_text">
               About us Wealth Solution
             </h2>
@@ -67,7 +67,7 @@
     </div>
   </section>
   <!-- ---------Share recovery-------- -->
-  <section class="service_section section_space section_decoration">
+  <section class="service_section section_space section_decoration bg-white">
     <div class="container">
       <div class="heading_block text-center">
         <div class="badge style_2 text-uppercase">
@@ -243,7 +243,7 @@
         </div>
 
       </div>
-      <div class="btns_group">
+      <!-- <div class="btns_group">
         <a class="btn bg-dark rounded-pill" href="services.html">
           <span class="btn_label">More Services</span>
           <span class="btn_icon"><svg width="20" height="16" viewBox="0 0 20 16" fill="none"
@@ -253,7 +253,7 @@
                 fill="white" />
             </svg></span>
         </a>
-      </div>
+      </div> -->
     </div>
   </section>
  
