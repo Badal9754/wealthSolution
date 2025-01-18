@@ -2519,16 +2519,16 @@ input[type="search"]::-webkit-search-results-decoration {
   color: var(--bs-primary);
 }
 .footer_layout_1 .footer_content_wrapper {
-  padding: 87px 0;
+  padding: 60px 0;
 }
 .footer_layout_1 .footer_info_title {
   color: #0c346f;
   line-height: 1;
   font-size: 20px;
   font-weight: 600;
-  margin-bottom: 29px;
-  padding-bottom: 18px;
-  border-bottom: 1px solid #003d3f;
+  margin-bottom: 20px;
+  padding-bottom: 0px;
+  /* border-bottom: 1px solid #003d3f; */
 }
 .footer_layout_1 .footer_bottom {
   padding: 7px 1px 10px 7px;
@@ -2614,7 +2614,7 @@ input[type="search"]::-webkit-search-results-decoration {
   margin-bottom: 30px;
 }
 .footer_layout_2 .iconlist_block.unordered_list_block {
-  gap: 10px;
+  gap: 3px;
 }
 .footer_layout_2 .iconlist_block.unordered_list > li {
   gap: 0;

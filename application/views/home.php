@@ -320,7 +320,7 @@
         ================================================== -->
   <section class="appstore_section section_decoration bg-white">
     <div class="container">
-      <div class="row justify-content-lg-between"  style="align-items: center;">
+      <div class="row justify-content-lg-between"  style="align-items: center;" >
 
         <div class="col-lg-6 ">
           <div class="heading_block style_2">
