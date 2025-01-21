@@ -1,30 +1,18 @@
+<!-- javascript libraries -->
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js">
 
-    <!-- Fraimwork - Jquery Include -->
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/js/popper.min.js"></script>
-    <script src="assets/js/bootstrap.min.js"></script>
-    <script src="assets/js/bootstrap-dropdown-ml-hack.min.js"></script>
+</script>
+<script type="text/javascript" src="<?= base_url() ?>assets/js/jquery.js"></script>
+<script type="text/javascript" src="<?= base_url() ?>assets/js/vendors.min.js"></script>
+<script type="text/javascript" src="<?= base_url() ?>assets/js/main.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/fontawesome.min.css"   />
+<link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.10.5/font/bootstrap-icons.min.css" rel="stylesheet">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/feather-icons/4.29.0/feather.min.css" rel="stylesheet">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/feather-icons/4.29.0/feather.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" ></script>
+<script> 
+    feather.replace();
+</script>
+</body>
 
-    <!-- Carousel - Jquery Include -->
-    <script src="assets/js/swiper-bundle.min.js"></script>
-
-    <!-- Animations - jquery include -->
-    <script src="assets/js/parallaxie.js"></script>
-    <script src="assets/js/parallax-scroll.js"></script>
-    <script src="assets/js/wow.min.js"></script>
-
-    <!-- Video & Image Popup - Jquery Include -->
-    <script src="assets/js/magnific-popup.min.js"></script>
-
-    <!-- Counter - Jquery Include -->
-    <script src="assets/js/appear.min.js"></script>
-    <script src="assets/js/odometer.min.js"></script>
-
-    <!-- Content Auto Sliding - jquery include -->
-    <script src="assets/js/ticker.min.js"></script>
-
-    <!-- Custom - Jquery Include -->
-    <script src="assets/js/main.js"></script>
-
-  </body>
 </html>

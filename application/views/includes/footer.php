@@ -1,107 +1,100 @@
-<footer class="site_footer footer_layout_1 section_decoration">
-  <div class="container">
-    <div class="footer_content_wrapper">
-      <div class="row">
-        <div class="col-lg-4 col-md-6 col-sm-6">
-          <div class="site_logo">
-            <a class="site_link" href="<?= base_url()?>">
-              <img src="<?= base_url()?>assets/img/logo.webp" alt="Site Logo" width="200">
-            </a>
-          </div>
-          <ul class="iconlist_block unordered_list_block">
-            <li>
-              <a href="tel:+(91) 9399125864 ">
-                <span class="iconlist_icon">
-                  <i class="fa fa-phone" aria-hidden="true"></i>
-                </span>
-                <span class="iconlist_text">+(91) 9399125864 </span>
-              </a>
-            </li>
-            <li>
-              <a href="mailto: wealthsolutionhub@gmail.com">
-                <span class="iconlist_icon">
-                  <i class="fa fa-envelope" aria-hidden="true"></i>
-                </span>
-                <span class="iconlist_text"> wealthsolutionhub@gmail.com</span>
-              </a>
-            </li>
-          </ul>
-        </div>
-        <div class="col-lg-4 col-md-6 col-sm-6 pe-lg-5">
-          <h3 class="footer_info_title">Quick LInk</h3>
-
-          <ul class="iconlist_block unordered_list_block">
-            <li>
-              <a href="<?= base_url()?>">
-                <span class="iconlist_text">Gold Investment</span>
-              </a>
-            </li>
-            <li>
-              <a href="<?= base_url()?>">
-                <span class="iconlist_text">Property Investment</span>
-              </a>
-            </li>
-            <li>
-              <a href="<?= base_url()?>">
-                <span class="iconlist_text">Gold Investment</span>
-              </a>
-            </li>
-            <li>
-              <a href="<?= base_url()?>">
-                <span class="iconlist_text">Product Salute</span>
-              </a>
-            </li>
-            <li>
-              <a href="<?= base_url()?>">
-                <span class="iconlist_text">Digital Investment</span>
-              </a>
-            </li>
-          </ul>
-        </div>
-        <div class="col-lg-4 col-md-6 col-sm-6 pe-lg-5">
-          <h3 class="footer_info_title">Information</h3>
-          <ul class="iconlist_block unordered_list_block">
-            <li>
-              <a href="<?= base_url()?>">
-                <span class="iconlist_text">Career</span>
-              </a>
-            </li>
-            <li>
-              <a href="<?= base_url()?>">
-                <span class="iconlist_text">Privacy Policy</span>
-              </a>
-            </li>
-            <li>
-              <a href="<?= base_url()?>">
-                <span class="iconlist_text">Terms & condition</span>
-              </a>
-            </li>
-            <li>
-              <a href="<?= base_url()?>">
-                <span class="iconlist_text">Refund & News</span>
-              </a>
-            </li>
-            <li>
-              <a href="<?= base_url()?>">
-                <span class="iconlist_text">Awards & Partners</span>
-              </a>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </div>
-    <div class="footer_bottom">
-      <div class="row">
-        <div class="col-md-12">
-          <p class="copyright_text mb-0">
-            Copyright © 2025 Wealth Solution, All rights reserved.
-          </p>
-        </div>
-      </div>
-    </div>
-  </div>
-</footer>
-<!-- Site Footer - End
-      ================================================== -->
-</div>
-<!-- Body Wrap - End -->
+  <!-- start footer -->
+  <footer class="footer-dark bg-dark-gray pt-0 pb-2 lg-pb-35px">
+            <div class="footer-top pt-50px pb-50px sm-pt-35px sm-pb-35px border-bottom border-1 border-color-transparent-white-light">
+                <div class="container">
+                    <div class="row align-items-center justify-content-center">
+                        <!-- start footer column -->
+                        <div class="col-xl-6 text-center text-xl-start lg-mb-30px sm-mb-20px">
+                            <h3 class="text-white mb-5px fw-500 ls-minus-1px">Get a consultation services.</h3>
+                            <span class="fs-20 widget-text fw-300">We will take care of your business accounting services.</span>
+                        </div>
+                        <!-- end footer column -->
+                        <!-- start footer column -->
+                        <div class="col-xl-6 text-center text-xl-end">
+                            <a href="" class="btn btn-extra-large btn-yellow left-icon btn-box-shadow btn-rounded text-transform-none d-inline-block align-middle me-15px xs-m-10px"><i class="feather icon-feather-mail"></i>Free consultation</a>
+                            <a href="tel:12345678910" class="btn btn-extra-large btn-base-color left-icon btn-box-shadow btn-rounded d-inline-block align-middle xs-m-10px"><i class="feather icon-feather-phone-call"></i>+1 234 567 8910</a>
+                        </div>
+                        <!-- end footer column -->
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row justify-content-center fs-17 fw-300 mt-5 mb-4 md-mt-45px md-mb-45px xs-mt-35px xs-mb-35px">
+                    <!-- start footer column -->
+                    <div class="col-6 col-lg-3 order-sm-1 md-mb-40px xs-mb-30px last-paragraph-no-margin">
+                        <a href="" class="footer-logo mb-15px d-inline-block"><img src="<?= base_url()?>assets/images/demo-accounting-logo-white.png" data-at2x="<?= base_url()?>assets/images/demo-accounting-logo-white@2x.png" alt=""></a>
+                        <p class="w-85 xl-w-95 sm-w-100">Lorem ipsum amet adipiscing elit to eiusmod ad tempor.</p>
+                        <div class="elements-social social-icon-style-02 mt-20px lg-mt-20px">
+                            <ul class="small-icon light">
+                                <li><a class="facebook" href="https://www.facebook.com/" target="_blank"><i class="fa-brands fa-facebook-f"></i></a></li>
+                                <li><a class="dribbble" href="http://www.dribbble.com" target="_blank"><i class="fa-brands fa-dribbble"></i></a></li> 
+                                <li><a class="twitter" href="https://www.twitter.com" target="_blank"><i class="fa-brands fa-twitter"></i></a></li> 
+                                <li><a class="instagram" href="https://www.instagram.com" target="_blank"><i class="fa-brands fa-instagram"></i></a></li> 
+                            </ul>
+                        </div>
+                    </div>
+                    <!-- end footer column -->
+                    <!-- start footer column -->
+                    <div class="col-6 col-lg-2 col-sm-4 xs-mb-30px order-sm-3 order-lg-2">
+                        <span class="fs-18 fw-400 d-block text-white mb-5px">About</span>
+                        <ul>
+                            <li><a href="">Company</a></li>
+                            <li><a href="">Services</a></li>
+                            <li><a href="">Process</a></li>
+                            <li><a href="">Contact</a></li>
+                        </ul>
+                    </div>
+                    <!-- end footer column -->
+                    <!-- start footer column -->
+                    <div class="col-6 col-lg-2 col-sm-4 xs-mb-30px order-sm-4 order-lg-3">
+                        <span class="fs-18 fw-400 d-block text-white mb-5px">Services</span>
+                        <ul>
+                            <li><a href="">Financial</a></li>
+                            <li><a href="">Investment</a></li>
+                            <li><a href="">Banking</a></li>
+                            <li><a href="">Consulting</a></li>
+                        </ul>
+                    </div>
+                    <!-- end footer column -->
+                    <!-- start footer column -->
+                    <div class="col-6 col-lg-2 col-sm-4 xs-mb-30px order-sm-5 order-lg-4">
+                        <span class="fs-18 fw-400 d-block text-white mb-5px">Get in touch</span>
+                        <p class="mb-5px">Need support?</p>
+                        <a href="/cdn-cgi/l/email-protection#325a5b72565d5f535b5c1c515d5f" class="text-white lh-16 d-block mb-15px"><span class="__cf_email__" data-cfemail="deb6b79ebab1b3bfb7b0f0bdb1b3">[email&#160;protected]</span></a>
+                        <p class="mb-5px">Customer care?</p>
+                        <a href="tel:12345678910" class="text-white lh-16 d-block">+1 234 567 8910</a>
+                    </div>
+                    <!-- end footer column -->
+                    <!-- start footer column -->
+                    <div class="col-lg-3 col-sm-6 md-mb-40px xs-mb-0 order-sm-2 order-lg-5">
+                        <span class="fs-18 fw-400 d-block text-white mb-5px">Subscribe to newsletter</span>
+                        <p class="mb-20px">Enter your email and we contact you!</p>
+                        <div class="d-inline-block w-100 newsletter-style-02 position-relative"> 
+                            <form action="email-templates/subscribe-newsletter.php" method="post" class="position-relative"> 
+                                <input class="border-color-transparent-white-light bg-transparent border-radius-4px w-100 form-control lg-ps-15px required" type="email" name="email" placeholder="Enter your email" />
+                                <input type="hidden" name="redirect" value="">
+                                <button class="btn pe-20px submit" aria-label="submit"><i class="bi bi-envelope icon-small text-white"></i></button>
+                                <div class="form-results border-radius-4px pt-5px pb-5px ps-15px pe-15px fs-14 lh-22 mt-10px w-100 text-center position-absolute d-none"></div>
+                            </form>
+                        </div>
+                    </div>
+                    <!-- end footer column -->                       
+                </div> 
+                <div class="row align-items-center fs-16 fw-300">
+                    <!-- start copyright -->
+                    <div class="col-md-4 last-paragraph-no-margin order-2 order-md-1 text-center text-md-start"><p>&COPY; Copyright 2024 <a href="index.html" target="_blank" class="text-decoration-line-bottom text-white">Crafto</a></p></div>
+                    <!-- end copyright -->
+                    <!-- start footer menu -->
+                    <div class="col-md-8 text-md-end order-1 order-md-2 text-center text-md-end sm-mb-10px">
+                        <ul class="footer-navbar sm-lh-normal"> 
+                            <li><a href="#" class="nav-link">Privacy policy</a></li>
+                            <li><a href="#" class="nav-link">Terms and conditions</a></li>
+                            <li><a href="#" class="nav-link">Copyright</a></li>
+                        </ul>
+                    </div>
+                    <!-- end footer menu -->
+                </div>
+            </div> 
+        </footer>
+        <!-- end footer -->
+     
